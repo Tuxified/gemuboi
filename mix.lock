@@ -1,0 +1,11 @@
+%{
+  "decimal": {:hex, :decimal, "1.7.0", "30d6b52c88541f9a66637359ddf85016df9eb266170d53105f02e4a67e00c5aa", [:mix], [], "hexpm"},
+  "elixir_make": {:hex, :elixir_make, "0.5.2", "96a28c79f5b8d34879cd95ebc04d2a0d678cfbbd3e74c43cb63a76adf0ee8054", [:mix], [], "hexpm"},
+  "font_metrics": {:hex, :font_metrics, "0.3.1", "025ff9957040eb4d6430c306a4445bad5d9f43ec24448c1647df7cb63b5dd88c", [:mix], [{:msgpax, "~> 2.2", [hex: :msgpax, repo: "hexpm", optional: false]}], "hexpm"},
+  "micro_timer": {:hex, :micro_timer, "0.1.1", "0823171a318c124e5ae55d40ad1c79e165c128730b176c12f59ecf034156cb41", [:mix], [], "hexpm"},
+  "msgpax": {:hex, :msgpax, "2.2.2", "559a07806bbe5fdd31e4597455be030bd96356f7a621ca9eed832747c83bfb67", [:mix], [{:plug, "~> 1.0", [hex: :plug, repo: "hexpm", optional: true]}], "hexpm"},
+  "number": {:hex, :number, "1.0.0", "b88229d83830147186e8e3f133395fa9faf4f17126cdfeb3e2d19cc538d35ed5", [:mix], [{:decimal, "~> 1.5", [hex: :decimal, repo: "hexpm", optional: false]}], "hexpm"},
+  "png": {:hex, :png, "0.1.1", "57eeab907d4c2b78d4c3803bc355af025248db9ebd612e4275c3cab65b809171", [:rebar], [], "hexpm"},
+  "scenic": {:git, "https://github.com/boydm/scenic.git", "0aa8ecfa8d7bcd3fd7e1ee77b2381bc2645284de", []},
+  "scenic_driver_glfw": {:git, "https://github.com/boydm/scenic_driver_glfw.git", "af7a3e7a8ae913060fb86bb25673963cb7a30967", []},
+}
