@@ -26,3 +26,8 @@ implement all instructions.
 - [Awesome Game Boy Development](https://github.com/gbdev/awesome-gbdev): 
 A curated list of Game Boy development resources such as tools, docs, emulators,
 related projects and open-source ROMs. 
+
+## questions?
+
+Feel free to open an issue if you have questions, as long as you don't ask for ROMS/games
+or where to find them.
